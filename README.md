@@ -10,4 +10,4 @@ O objetivo principal é fortalecer os fundamentos de algoritmos e estrutura de d
 
 ## 📅 Progresso e Organização
 
-Eu me comprometo a resolver pelo menos **2 exercícios por dia** (nas minhas 2 horas disponíveis) e subir a solução aqui.
+Eu me comprometo a resolver pelo menos **1 exercício por dia** (nas minhas 2 horas disponíveis) e subir a solução aqui.
