@@ -16,6 +16,5 @@ public class BEE1172 {
         for (int i = 0; i <  X.length; i++){
                 System.out.println("X[" + i + "] = " + X[i]);
         }
-
     }
 }
